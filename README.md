@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ebells
 - 👀 I’m interested in App Development 
-- 🌱 I’m currently learning React, JavaScript
+- 🌱 I’m currently learning React, JavaScript, flutter and dart
 - 💞️ I’m looking to collaborate on any Project at all
 - 📫 How to reach me ...
 
